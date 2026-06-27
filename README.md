@@ -1,4 +1,4 @@
-# Numerical Analysis and Algorithmic Methods — Part 1: Theoretical Framework
+# Numerical Analysis and Algorithmic Methods Part 1: Theoretical Framework
 
 This repository contains the first part of the laboratory notebook sequence, focusing entirely on the theoretical and mathematical foundations governing core numerical routines. This document establishes the analytical framework necessary to understand, derive, and validate the computational models implemented in subsequent phases.
 
